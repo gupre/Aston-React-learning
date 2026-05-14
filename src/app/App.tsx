@@ -8,7 +8,7 @@ import { AppRouter } from './providers/router/AppRouter';
 function App() {  
   return (
     <div className={`${styles.app}`}>
-      <BrowserRouter>
+      <BrowserRouter basename="/Aston-React-learning">
         <Header />
         <main className={styles.main}>
           <AppRouter />
