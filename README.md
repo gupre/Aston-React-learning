@@ -4,6 +4,7 @@
 
 Задача — изучить и применить на практике современный стек React-разработки: Redux Toolkit, React Router, TypeScript, архитектурные подходы. 
 
+🔗 **[Live Demo](https://gupre.github.io/Aston-React-learning/)** 
 ---
 Страницы:
 - Список постов с фильтрацией по длине
